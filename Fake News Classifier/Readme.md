@@ -1,2 +1,2 @@
-Fake News Classifier
+Fake News Classifier \n
 Achieved 94% validation accuracy
